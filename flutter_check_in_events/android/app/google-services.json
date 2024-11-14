@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664999446135",
+    "project_id": "connect-event-67b51",
+    "storage_bucket": "connect-event-67b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721653840747:android:164f90b5d82c384cb6ea2e",
+        "android_client_info": {
+          "package_name": "br.com.biagionin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-34lCsyk7NkLXwmKHbbNPCxt1zhG01Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
